@@ -24,3 +24,16 @@ Changed to a rectangle:
 
 And then I created my own shape (mushroom) as shown on the top of the page.
 
+Another task was to use a Direct3D GPU capture in the VS Graphics Analyzer:
+- Render target when it is all black (the ClearRenderTargetView() function is highlighted)
+
+- render target with the mesh (the Draw() function is highlighted) 
+
+- Pipeline Stages tab is selected, and the mesh is visible as "wireframe", where the two triangles are visible
+
+In addition the OpenGL GPU capture had to be created in RenderDoc:
+- Render target when it is all black (the glClear() function is highlighted, and the Texture View tab is selected)
+
+- Render target with the mesh (the glDrawArrays() function is highlighted and the Texture View tab is selected)
+
+- Mesh's two triangles (the glDrawArrays() function is highlighted but the Mesh Output tab is selected, and either the VS Input or VS Output sub-tab is selected)
