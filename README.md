@@ -27,6 +27,9 @@ And then I created my own shape (mushroom) as shown on the top of the page.
 Another task was to use a Direct3D GPU capture in the VS Graphics Analyzer:
 - Render target when it is all black (the ClearRenderTargetView() function is highlighted)
 
+![image](https://user-images.githubusercontent.com/63023478/135000704-9280d730-34a6-4f7e-83e9-7cc6c947a666.png)
+
+
 - render target with the mesh (the Draw() function is highlighted) 
 
 - Pipeline Stages tab is selected, and the mesh is visible as "wireframe", where the two triangles are visible
