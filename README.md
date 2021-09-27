@@ -8,3 +8,5 @@ https://github.com/sunny-erika/EngII_Assignment02/raw/main/WindowCapture_GameExe
 
 
 https://github.com/sunny-erika/EngII_Assignment02/blob/main/WindowCapture_GameExe.gif
+
+![ReleaseX64MyGame](https://github.com/sunny-erika/EngII_Assignment02/blob/main/WindowCapture_GameExe.gif)
