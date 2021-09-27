@@ -40,3 +40,6 @@ In addition the OpenGL GPU capture had to be created in RenderDoc:
 
 
 - Mesh's two triangles (the glDrawArrays() function is highlighted but the Mesh Output tab is selected, and either the VS Input or VS Output sub-tab is selected)
+
+![image](https://user-images.githubusercontent.com/63023478/134999790-0c84aed7-99aa-43ef-b2c2-2826203932e2.png)
+
