@@ -3,10 +3,6 @@
 Download Link for Game.exe: https://github.com/sunny-erika/EngII_Assignment02/raw/main/MyGame_.zip
 
 Mushroom Shape GIF: 
-
-https://github.com/sunny-erika/EngII_Assignment02/raw/main/WindowCapture_GameExe.gif
-
-
-https://github.com/sunny-erika/EngII_Assignment02/blob/main/WindowCapture_GameExe.gif
-
 ![ReleaseX64MyGame](https://github.com/sunny-erika/EngII_Assignment02/blob/main/WindowCapture_GameExe.gif)
+
+ss
