@@ -34,6 +34,9 @@ Another task was to use a Direct3D GPU capture in the VS Graphics Analyzer:
 In addition the OpenGL GPU capture had to be created in RenderDoc:
 - Render target when it is all black (the glClear() function is highlighted, and the Texture View tab is selected)
 
+![image](https://user-images.githubusercontent.com/63023478/134999848-52d6e6c5-db16-4ab5-a65c-fd1c328ddece.png)
+
+
 - Render target with the mesh (the glDrawArrays() function is highlighted and the Texture View tab is selected)
 
 ![image](https://user-images.githubusercontent.com/63023478/134999677-d7a58832-754d-4cb6-9937-9b7d775675f4.png)
