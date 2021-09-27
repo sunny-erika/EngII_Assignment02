@@ -8,4 +8,11 @@ Mushroom Shape GIF:
 
 ![ReleaseX64MyGame](https://github.com/sunny-erika/EngII_Assignment02/blob/main/WindowCapture_GameExe.gif)
 
-ss
+Summary Write-Up:
+
+Code that binds the effect and draws the mesh:
+
+![image](https://user-images.githubusercontent.com/63023478/134995600-1bc59330-d2d8-4f13-9cd5-32edd4538f82.png)
+
+
+
