@@ -58,5 +58,6 @@ In addition the OpenGL GPU capture had to be created in RenderDoc:
 •	Summary of issues I encountered and solutions I found
 ![image](https://user-images.githubusercontent.com/63023478/135004246-65153403-f9d6-4cef-9e90-4131e18ad2d6.png)
 
+![image](https://user-images.githubusercontent.com/63023478/135004287-b0cef38b-44bf-441b-8103-ac7a167a6d51.png)
 
 
