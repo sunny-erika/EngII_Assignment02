@@ -1,0 +1,14 @@
+Opened log file "eae6320.log"
+Initialized time
+Registered main window class "Sunny's EAE6320 MyGame Main Window Class"
+The user settings file "settings.ini" doesn't exist. Using default settings instead.
+Created main window "Sunny's EAE6320 MyGame -- OpenGL"
+Set main window resolution to 512 x 512
+cMeshGeometry::InitializeGeometry: starting initialization of Geometry
+cMeshGeometry::InitializeGeometry: Assigning data to buffer
+MyGame: starting application initialization
+MyGame: The application was succesfully initialized
+The application was successfully initialized
+MyGame: The application was succesfully cleaned up
+Unregistered main window class
+Closing log file
