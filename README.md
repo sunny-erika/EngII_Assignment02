@@ -60,4 +60,8 @@ In addition the OpenGL GPU capture had to be created in RenderDoc:
 
 ![image](https://user-images.githubusercontent.com/63023478/135004287-b0cef38b-44bf-441b-8103-ac7a167a6d51.png)
 
+![image](https://user-images.githubusercontent.com/63023478/135004412-42f764f7-1659-48e7-a056-d57acadb4491.png)
+
+![image](https://user-images.githubusercontent.com/63023478/135004449-aa59e5d8-108a-4647-ae6b-1b7e04b60fd8.png)
+
 
