@@ -37,6 +37,9 @@ Another task was to use a Direct3D GPU capture in the VS Graphics Analyzer:
 
 - Pipeline Stages tab is selected, and the mesh is visible as "wireframe", where the two triangles are visible
 
+![image](https://user-images.githubusercontent.com/63023478/135001091-2e14919e-fa4c-46fc-93da-d987d71a47d7.png)
+
+
 In addition the OpenGL GPU capture had to be created in RenderDoc:
 - Render target when it is all black (the glClear() function is highlighted, and the Texture View tab is selected)
 
