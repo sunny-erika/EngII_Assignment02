@@ -68,5 +68,7 @@ Thoughts on how to use platform-independent code to eliminate those differences 
 I could imagine using overloaded functions that allow additional parameters to be passed. Those parameters could be similar to the Initialization used in cConstantBuffer for example: 
 cResult Initialize_platformSpecific( const void* const i_initialData ); and this function could be called using the preprocessor defines like I used during this assignment
 
+It took me about 17 hours to complete this assignment.
+
 
 
